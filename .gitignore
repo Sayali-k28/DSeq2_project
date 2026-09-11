@@ -1,0 +1,13 @@
+# R session/history files (local only, never share these)
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+
+# OS junk
+.DS_Store
+Thumbs.db
